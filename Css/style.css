@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+}
+h1 {
+  text-align: center;
+}
+#img-caption {
+  text-align: center;
+}
+#img-div {
+  left: 150px;
+}
+#image {
+  max-width: 50%;
+  margin: auto;
+  display: block;
+  padding: 10px;
+}
+.links p {
+  margin: auto;
+}
+h3{
+  text-align: center;
+}
+#tribute-info{
+  line-height: 1.5em;
+}
+h1,h3{
+  background-color: gray;
+  padding: 15px;
+}
